@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "560226438422",
+    "project_id": "bren-mk-online-android",
+    "storage_bucket": "bren-mk-online-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560226438422:android:bef6935322dcaa7cb91437",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560226438422-6o61u10edkd607ljf5kc7k7qd9sk6pch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseauth",
+            "certificate_hash": "f0462e242496ad8e1e10224ba4f4d3b7f54d2006"
+          }
+        },
+        {
+          "client_id": "560226438422-gtib1ahl7ck0gi3f7np721as348jur2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhk08r0jSLl96sE1FlQfnorwmAFDQnVRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560226438422-gtib1ahl7ck0gi3f7np721as348jur2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
